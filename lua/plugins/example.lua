@@ -118,7 +118,6 @@ return {
   { import = "lazyvim.plugins.extras.lang.typescript" },
 
   -- add more treesitter parsers
-
   {
     "nvim-treesitter/nvim-treesitter",
     build = ":TSUpdate",
